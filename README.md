@@ -25,11 +25,12 @@ Run the script:
 3 - Start RStudio and set the diretory "./getdata-projectfiles-UCI HAR Dataset/UCI HAR Dataset" as your work diretory.
 
 4 - Execute the "run_analysis.R" command in RStudio.
-    - This script will generate two files:
+    - This script will generate two files in your work diretory:
                    - "data_merged.txt" -> This is the file with the result of the merge data, this is the base for the tidy data,
                    - "tidy_data.txt"   -> This is the tidy data set with the average of each variable for each activity and each subject.
                                           This is the final file that meets the project.
-
+                                          
+In this github repository you can find a exemple of the generated files.                                          
 
 
 
